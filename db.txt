@@ -1,0 +1,1 @@
+[("Apple1","Apple",50.0,1),("Mango1","Mango",20.0,2),("Banana1","Banana",10.0,1),("Potato1","Potato",5.0,6),("Apple6","Apple",56.0,78),("Apple10","Apple",80.0,10),("Apple7","Apple",90.9,67),("Po","o",6.0,6),("P100","P100",4.0,4)]
